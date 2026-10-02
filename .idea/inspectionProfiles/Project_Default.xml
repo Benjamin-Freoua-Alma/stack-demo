@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="alembic" />
+          <option value="anyio" />
+          <option value="cachetools" />
+          <option value="cryptography" />
+          <option value="ddtrace" />
+          <option value="google-auth" />
+          <option value="google-cloud-bigquery" />
+          <option value="google-cloud-pubsub" />
+          <option value="google-cloud-storage" />
+          <option value="gunicorn" />
+          <option value="mailjet-rest" />
+          <option value="mammoth" />
+          <option value="neo4j-rust-ext" />
+          <option value="phonenumbers" />
+          <option value="protobuf" />
+          <option value="psycopg" />
+          <option value="pydantic" />
+          <option value="pyjwt" />
+          <option value="rudder-sdk-python" />
+          <option value="sentry-sdk" />
+          <option value="sqlalchemy" />
+          <option value="twilio" />
+          <option value="uvicorn" />
+          <option value="websockets" />
+          <option value="coverage" />
+          <option value="ipython" />
+          <option value="pytest-reportportal" />
+          <option value="pytest-socket" />
+          <option value="time-machine" />
+          <option value="tqdm" />
+          <option value="types-docutils" />
+          <option value="types-openpyxl" />
+          <option value="types-protobuf" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
